@@ -8,5 +8,5 @@ Teset
   
   
   
-  test branch 
-  test branch 2
+git config --add remote.origin.push master
+git config --add remote.origin.push gh-pages
